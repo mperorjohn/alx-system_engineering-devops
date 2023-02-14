@@ -1,0 +1,1 @@
+:echo getline(1,10)
