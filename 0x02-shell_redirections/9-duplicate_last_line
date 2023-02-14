@@ -1,1 +1,3 @@
-:let last_line = line(); :normarl! G;  :put =last_line
+:let last_line = line()
+:normarl! G
+:put =last_line
